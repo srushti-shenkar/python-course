@@ -19,7 +19,7 @@ if(choice==1): #condition 1 outer if statement
 
  #user entering option 2
 elif(choice==2):#outer elif statement
-    print("what type of car")
+    print("what type of jeep")
     print("1.sedan")
     print("2.XUV")
     choice3=int(input("enter your choice3:"))
@@ -28,10 +28,11 @@ elif(choice==2):#outer elif statement
  #condition for selecting the type of car    
         print("you have selected sedan")
     else:
-        print("you have selected XUV")
+        print("you have selected a XUV")
 
 else: #outer else statement             
     print("wrong choice")
+
 
 
 
