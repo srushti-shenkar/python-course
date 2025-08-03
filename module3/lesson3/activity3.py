@@ -11,7 +11,7 @@ def divide(P,Q):
     #this fuction is used to divide two numbers
     return P/Q
  
- # now we wll take inputs from the user
+# now we will take inputs from the user
 print("please select the operations")
 print("a.Add")
 print("b.Subtract")
