@@ -12,4 +12,3 @@ def getRandomDate(startDate,endDate):#defining function
     return randomDate
 #display result
 print("Random Date=",getRandomDate("1/1/2016","12/12/2018"))
-
